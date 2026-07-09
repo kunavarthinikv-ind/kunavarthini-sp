@@ -16,6 +16,17 @@ Experienced in developing serverless applications with **AWS Lambda**, building 
 - 🤝 5+ years of Agile development experience
 
 ---
+## 💼 What I Do
+
+- Develop backend applications and REST APIs
+- Build AWS Lambda-based serverless solutions
+- Design and implement data migration workflows
+- Develop ETL pipelines for enterprise applications
+- Integrate cloud services and enterprise systems
+- Optimize application performance and reliability
+- Collaborate with Agile development teams
+
+---
 
 ## 🚀 Tech Stack
 
@@ -61,19 +72,6 @@ Experienced in developing serverless applications with **AWS Lambda**, building 
 - Enterprise System Integration
 
 ---
-
-## 💼 What I Do
-
-- Develop backend applications and REST APIs
-- Build AWS Lambda-based serverless solutions
-- Design and implement data migration workflows
-- Develop ETL pipelines for enterprise applications
-- Integrate cloud services and enterprise systems
-- Optimize application performance and reliability
-- Collaborate with Agile development teams
-
----
-
 ## 📚 Areas of Interest
 
 - Backend Development
