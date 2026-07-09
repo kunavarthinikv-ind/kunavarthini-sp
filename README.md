@@ -1,12 +1,12 @@
 # Hi, Kunavarthini S P
 
-### Senior Backend Developer | AWS Cloud Engineer | Python Developer | Data Migration | REST APIs
+### Senior Backend Developer | AWS Cloud Engineer | Data Migration | REST APIs
 
 ---
 
 ## 👨‍💻 About Me
 
-Senior Backend Developer with **7.5+ years of experience** developing backend applications, data migration solutions, and REST APIs using **Python, AWS, and PostgreSQL**.
+Senior Backend Developer with **7.5+ years of experience** developing backend applications, data migration solutions, and REST APIs.
 
 Experienced in developing serverless applications with **AWS Lambda**, building ETL pipelines, and integrating enterprise systems. Passionate about writing reliable, secure, and scalable software solutions while working in Agile teams.
 
@@ -25,61 +25,5 @@ Experienced in developing serverless applications with **AWS Lambda**, building 
 - Integrate cloud services and enterprise systems
 - Optimize application performance and reliability
 - Collaborate with Agile development teams
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-
-- Python
-- SQL
-- Bash
-
-### Backend
-
-- REST APIs
-- Microservices
-
-### Cloud
-
-- AWS Lambda
-- API Gateway
-- Amazon S3
-- Amazon RDS
-- EC2
-- ECS
-- CloudWatch
-- IAM
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- Oracle
-
-### DevOps
-
-- Docker
-- Git
-- Linux
-
-### Data Engineering
-
-- ETL Pipelines
-- Data Migration
-- Data Processing
-- Enterprise System Integration
-
----
-## 📚 Areas of Interest
-
-- Backend Development
-- Cloud Computing
-- AWS
-- Microservices
-- Data Engineering
-- System Integration
-- Distributed Systems
 
 ---
